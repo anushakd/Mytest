@@ -1,0 +1,8 @@
+Project Submission
+axk150431
+Video analytics
+
+
+i)Submitted a python script fiiles named "face_detect.py" and "Image_generate.py".
+ii)Generate dataset of images by running  python script named Image_generate.py .Generated dataset that consists of images of 3 celebrities that are put in folder "my". 
+iii)Run the script "face_detect.py" to detect and count the celebrities in the current frame.
